@@ -1,0 +1,8 @@
+#Ignorar carpeta events
+events
+
+#Todos los .class
+*.class
+
+#Todos los lock.json
+*lock.json
